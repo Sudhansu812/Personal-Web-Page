@@ -1,9 +1,11 @@
-html{
+html {
   font-family: sans-serif;
 }
+
 body {
-  background:#eaf6f6;
+  background: #eaf6f6;
 }
+
 hr {
   background-color: #edffea;
   border-top: 5px dotted #84a9ac;
@@ -12,14 +14,17 @@ hr {
   border-bottom: none;
   width: 5%;
 }
+
 .profPic {
   height: 150px;
 }
+
 h1, h3 {
+  color: #66BFBF;
   text-transform: uppercase;
-  color:#66BFBF;
 }
+
 p {
-  text-align: justify;
   letter-spacing: 2px;
+  text-align: justify;
 }
