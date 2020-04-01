@@ -1,0 +1,25 @@
+html{
+  font-family: sans-serif;
+}
+body {
+  background:#eaf6f6;
+}
+hr {
+  background-color: #edffea;
+  border-top: 5px dotted #84a9ac;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 5%;
+}
+.profPic {
+  height: 150px;
+}
+h1, h3 {
+  text-transform: uppercase;
+  color:#66BFBF;
+}
+p {
+  text-align: justify;
+  letter-spacing: 2px;
+}
